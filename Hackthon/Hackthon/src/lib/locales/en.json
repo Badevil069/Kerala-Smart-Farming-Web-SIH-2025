@@ -1,0 +1,277 @@
+
+{
+  "home": {
+    "title": "Krishi Sakhi",
+    "login": "Login",
+    "getStarted": "Get Started",
+    "hero": {
+      "title": "Your AI Farming Assistant for Kerala",
+      "subtitle": "Krishi Sakhi empowers farmers in Kerala with AI-driven insights for healthier crops, better yields, and sustainable farming.",
+      "cta": "Start Farming Smarter"
+    },
+    "pestCheck": {
+      "title": "Pest Check",
+      "line1": "✅ Rice Gall Midge detected",
+      "line2": "✅ Solution suggested"
+    },
+    "features": {
+      "title": "Powerful Tools for Modern Farming",
+      "subtitle": "Everything you need to manage your farm efficiently and increase profitability.",
+      "pestDetection": {
+        "title": "AI Pest Detection",
+        "description": "Snap a photo of your crop, and our AI will identify pests and diseases instantly, providing solutions."
+      },
+      "cropAdvice": {
+        "title": "Personalized Crop Advice",
+        "description": "Get AI-driven recommendations for your specific crops, soil type, and local weather conditions."
+      },
+      "weather": {
+        "title": "Hyperlocal Weather",
+        "description": "Receive accurate, real-time weather forecasts and alerts for your exact farm location."
+      },
+      "logging": {
+        "title": "Smart Activity Logging",
+        "description": "Easily track all your farming activities, from sowing to harvest, with smart suggestions from our AI."
+      }
+    },
+    "howItWorks": {
+      "title": "Get Started in 3 Easy Steps",
+      "subtitle": "Join Krishi Sakhi today and transform your farming experience.",
+      "step1": {
+        "title": "Create Your Profile",
+        "description": "Tell us about you and your farm parcels to get personalized advice."
+      },
+      "step2": {
+        "title": "Log Your Activities",
+        "description": "Use our simple tools to record your daily farming tasks and observations."
+      },
+      "step3": {
+        "title": "Receive AI Insights",
+        "description": "Get instant alerts, pest diagnostics, and expert advice to boost your yield."
+      }
+    },
+    "footer": {
+      "copyright": "© {year} Krishi Sakhi. AI for Kerala's Farmers.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    }
+  },
+  "login": {
+    "homeButton": "Home",
+    "mainTitle": "Krishi Sakhi",
+    "subtitle": "Your AI Farming Assistant",
+    "phoneLabel": "Phone Number",
+    "phonePlaceholder": "Enter your 10-digit number",
+    "phoneError": "Phone number must be at least 10 digits.",
+    "sendOtp": "Send OTP",
+    "processing": "Processing...",
+    "otpSent": "OTP Sent",
+    "otpSentDesc": "An OTP has been sent to your phone number.",
+    "otpLabel": "Enter OTP",
+    "otpPlaceholder": "6-digit OTP (use 123456)",
+    "otpError": "OTP is required",
+    "otpErrorLength": "OTP must be 6 digits.",
+    "invalidOtp": "Invalid OTP",
+    "invalidOtpDesc": "The OTP you entered is incorrect. Please try again.",
+    "verifyOtp": "Verify OTP & Login",
+    "loginSuccess": "Login Successful",
+    "loginSuccessDesc": "Welcome back to Krishi Sakhi!",
+    "changeNumber": "Change Number",
+    "demoInfo": "For demo: new user number ends with '0000'.\nUse OTP '123456'.",
+    "newUser": {
+      "title": "Welcome! Tell us about yourself.",
+      "nameLabel": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "nameError": "Name is required.",
+      "villageLabel": "Village / Panchayat",
+      "villagePlaceholder": "Enter your village or panchayat",
+      "villageError": "Village is required.",
+      "nextButton": "Next: Add Farm Details"
+    },
+    "newFarm": {
+      "title": "Now, add your first farm parcel.",
+      "landAreaLabel": "Land Area (Acres)",
+      "landAreaPlaceholder": "e.g., 2.5",
+      "landAreaError": "Area is required.",
+      "landAreaMinError": "Must be positive.",
+      "cropLabel": "Main Crop(s)",
+      "cropPlaceholder": "e.g., Paddy",
+      "cropError": "Crops are required.",
+      "soilLabel": "Soil Type",
+      "soilPlaceholder": "Select a soil type",
+      "soilError": "Soil type is required.",
+      "soilTypes": {
+        "Sandy": "Sandy",
+        "Loamy": "Loamy",
+        "Clay": "Clay",
+        "Lateritic": "Lateritic",
+        "Alluvial": "Alluvial",
+        "Unknown": "Unknown"
+      },
+      "completeButton": "Complete Profile & Login",
+      "goBack": "Go Back"
+    },
+    "profileCreated": "Profile Created!",
+    "profileCreatedDesc": "Welcome to Krishi Sakhi!"
+  },
+  "dashboard": {
+    "nav": {
+      "dashboard": "Dashboard",
+      "pestCheck": "Pest Check",
+      "advisor": "Advisor",
+      "activity": "Activity",
+      "cropPrices": "Crop Prices",
+      "alerts": "Alerts"
+    },
+    "page": {
+      "welcome": "Welcome, {name}!",
+      "welcomeSubtitle": "Here's a summary of your farm today.",
+      "defaultFarmer": "Farmer",
+      "pestAlerts": "{count} Pest Alerts",
+      "paddy": "Paddy",
+      "dayAgo": "{count} day ago",
+      "daysAgo": "{count} days ago",
+      "hour": "{count} hour",
+      "hours": "{count} hours",
+      "hourAgo": "{count} hour ago",
+      "hoursAgo": "{count} hours ago",
+      "weekAgo": "{count} week ago",
+      "weeksAgo": "{count} weeks ago",
+      "ttsError": {
+        "title": "Read Aloud Failed",
+        "description": "Could not generate audio for the advisory."
+      },
+      "viewAll": "View All"
+    },
+    "weather": {
+      "title": "Today's Weather",
+      "location": "{village}, Kerala - Last updated a few minutes ago",
+      "defaultLocation": "Your Location",
+      "sunny": "Sunny",
+      "wind": "Wind",
+      "humidity": "Humidity",
+      "precipitation": "Precipitation",
+      "uv": "UV Index",
+      "uvHigh": "High",
+      "hourlyForecast": "Hourly Forecast",
+      "now": "Now"
+    },
+    "quickActions": {
+      "title": "Quick Actions",
+      "logActivity": {
+        "title": "Log Activity",
+        "description": "Record daily farm tasks."
+      },
+      "getAiAdvice": {
+        "title": "Get AI Advice",
+        "description": "Ask our AI for farming tips."
+      },
+      "viewAlerts": {
+        "title": "View Alerts",
+        "description": "Check for new notifications."
+      },
+      "pestCheck": {
+        "title": "Pest Check",
+        "description": "Detect crop diseases."
+      }
+    },
+    "advisories": {
+      "title": "Today's Advisories",
+      "rain": {
+        "title": "Rain expected tomorrow",
+        "action": "Avoid spray today"
+      },
+      "pest": {
+        "title": "Brinjal pest reported nearby",
+        "action": "Inspect crop"
+      },
+      "scheme": {
+        "title": "Scheme deadline approaching",
+        "action": "Apply for subsidy now"
+      }
+    },
+    "reminders": {
+      "next": "Next Reminder",
+      "pesticide": "Spray pesticides tomorrow morning.",
+      "scheme": "Scheme application deadline in 2 days.",
+      "pumps": "Check irrigation pumps."
+    },
+    "recentActivities": {
+      "title": "Recent Activities",
+      "sowing": "Sowing",
+      "irrigation": "Irrigation",
+      "fertilizer": "Fertilizer"
+    },
+    "news": {
+      "title": "Recent News & Schemes",
+      "msp": {
+        "title": "Government announces increased MSP for Paddy",
+        "source": "Press Information Bureau"
+      },
+      "pmkisan": {
+        "title": "Applications open for PM-Kisan Scheme new phase",
+        "source": "Krishi Portal"
+      },
+      "cardamom": {
+        "title": "Bio-capsule technology to boost cardamom production",
+        "source": "The Hindu"
+      },
+      "viewMore": "View More News"
+    }
+  },
+  "userNav": {
+    "farmer": "Farmer",
+    "locationUnknown": "Location unknown",
+    "profile": "Profile",
+    "logout": "Log out"
+  },
+  "loader": {
+    "loading": "Loading...",
+    "loadingFarm": "Loading your farm..."
+  },
+  "chatbot": {
+    "online": "Online",
+    "greeting": "Hello! How can I help you today? You can ask me about the weather, log an activity, or report a pest.",
+    "quickReplies": {
+      "planted": "I planted",
+      "watered": "I watered",
+      "pest": "I saw a pest",
+      "sprayed": "I sprayed",
+      "harvest": "Harvest done"
+    },
+    "inputPlaceholder": "Type a message or hold mic...",
+    "toggle": "Open Chat",
+    "log": {
+      "saved": {
+        "title": "Activity Logged!",
+        "description": "The conversation has been saved to your activity log.",
+        "action": "View Log"
+      },
+      "saveButton": "Save as Log"
+    },
+    "mic": {
+      "recording": {
+        "title": "Recording...",
+        "description": "Hold to speak. Release to send. (This is a demo)"
+      },
+      "sent": {
+        "title": "Message Sent!",
+        "description": "Your voice message has been sent. (This is a demo)"
+      },
+      "placeholder": "Voice message placeholder"
+    },
+    "tts": {
+      "title": "Playing Audio",
+      "description": "This is a demo of the text-to-speech feature."
+    },
+    "responses": {
+      "planted": "Great! I've noted that you've planted. For which crop and how much area?",
+      "watered": "Noted: you watered your crops. Do you want to save this as an activity log?",
+      "pest": "Oh no! Please upload a photo of the pest or the affected plant part. I can help identify it.",
+      "default": "I'm sorry, I'm still learning. Can you please rephrase or select one of the quick replies?",
+      "weather": "The forecast for tomorrow is partly cloudy with a 40% chance of rain in the afternoon. It's a good day for planting."
+    }
+  }
+}
+
+    

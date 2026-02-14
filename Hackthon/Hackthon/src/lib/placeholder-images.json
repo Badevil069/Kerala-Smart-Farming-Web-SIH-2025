@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "dashboard-hero",
+      "description": "Lush green paddy fields in Kerala under a blue sky.",
+      "imageUrl": "https://picsum.photos/seed/kerala-farm/1200/400",
+      "imageHint": "kerala farm"
+    },
+    {
+      "id": "knowledge-paddy",
+      "description": "Close-up of golden paddy grains.",
+      "imageUrl": "https://picsum.photos/seed/paddy/600/400",
+      "imageHint": "paddy field"
+    },
+    {
+      "id": "knowledge-coconut",
+      "description": "A grove of tall coconut trees against the sky.",
+      "imageUrl": "https://picsum.photos/seed/coconut/600/400",
+      "imageHint": "coconut trees"
+    },
+    {
+      "id": "knowledge-fertilizer",
+      "description": "Rich dark compost soil in hands.",
+      "imageUrl": "https://picsum.photos/seed/compost/600/400",
+      "imageHint": "compost soil"
+    },
+    {
+      "id": "knowledge-banana",
+      "description": "A banana plant with a bunch of green bananas.",
+      "imageUrl": "https://picsum.photos/seed/banana/600/400",
+      "imageHint": "banana plant"
+    },
+    {
+      "id": "knowledge-water",
+      "description": "Rain falling into a collection barrel.",
+      "imageUrl": "https://picsum.photos/seed/rainwater/600/400",
+      "imageHint": "rainwater harvesting"
+    },
+    {
+      "id": "knowledge-soil",
+      "description": "A farmer holding healthy soil.",
+      "imageUrl": "https://picsum.photos/seed/healthy-soil/600/400",
+      "imageHint": "healthy soil"
+    }
+  ]
+}
